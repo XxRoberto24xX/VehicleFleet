@@ -1,0 +1,103 @@
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\PracticaFinal\bin\Debug\PracticaFinal.exe.config
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\PracticaFinal\bin\Debug\PracticaFinal.exe
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\PracticaFinal\bin\Debug\PracticaFinal.pdb
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal_MarkupCompile.cache
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal_MarkupCompile.lref
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.g.resources
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.Properties.Resources.resources
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.exe
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.pdb
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\bin\Debug\PracticaFinal.exe.config
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\bin\Debug\PracticaFinal.exe
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\bin\Debug\PracticaFinal.pdb
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\obj\Debug\Secundaria.g.cs
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal_MarkupCompile.cache
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal_MarkupCompile.lref
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\obj\Debug\Secundaria.baml
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.g.resources
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.Properties.Resources.resources
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.exe
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.pdb
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\obj\Debug\Añadir.g.cs
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\obj\Debug\Añadir.baml
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalPruebas\PracticaFinal\bin\Debug\PracticaFinal.exe.config
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalPruebas\PracticaFinal\bin\Debug\PracticaFinal.exe
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalPruebas\PracticaFinal\bin\Debug\PracticaFinal.pdb
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalPruebas\PracticaFinal\obj\Debug\PracticaFinal.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalPruebas\PracticaFinal\obj\Debug\PracticaFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalPruebas\PracticaFinal\obj\Debug\Añadir.g.cs
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalPruebas\PracticaFinal\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalPruebas\PracticaFinal\obj\Debug\Secundaria.g.cs
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalPruebas\PracticaFinal\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalPruebas\PracticaFinal\obj\Debug\PracticaFinal_MarkupCompile.cache
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalPruebas\PracticaFinal\obj\Debug\PracticaFinal_MarkupCompile.lref
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalPruebas\PracticaFinal\obj\Debug\Añadir.baml
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalPruebas\PracticaFinal\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalPruebas\PracticaFinal\obj\Debug\Secundaria.baml
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalPruebas\PracticaFinal\obj\Debug\PracticaFinal.g.resources
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalPruebas\PracticaFinal\obj\Debug\PracticaFinal.Properties.Resources.resources
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalPruebas\PracticaFinal\obj\Debug\PracticaFinal.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalPruebas\PracticaFinal\obj\Debug\PracticaFinal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalPruebas\PracticaFinal\obj\Debug\PracticaFinal.exe
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalPruebas\PracticaFinal\obj\Debug\PracticaFinal.pdb
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalPruebas\PracticaFinal\obj\Debug\Modificar.g.cs
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalPruebas\PracticaFinal\obj\Debug\Modificar.baml
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalEstable2\PracticaFinal\bin\Debug\PracticaFinal.exe.config
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalEstable2\PracticaFinal\bin\Debug\PracticaFinal.exe
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalEstable2\PracticaFinal\bin\Debug\PracticaFinal.pdb
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalEstable2\PracticaFinal\obj\Debug\PracticaFinal.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalEstable2\PracticaFinal\obj\Debug\PracticaFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalEstable2\PracticaFinal\obj\Debug\Añadir.g.cs
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalEstable2\PracticaFinal\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalEstable2\PracticaFinal\obj\Debug\Modificar.g.cs
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalEstable2\PracticaFinal\obj\Debug\Secundaria.g.cs
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalEstable2\PracticaFinal\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalEstable2\PracticaFinal\obj\Debug\PracticaFinal_MarkupCompile.cache
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalEstable2\PracticaFinal\obj\Debug\PracticaFinal_MarkupCompile.lref
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalEstable2\PracticaFinal\obj\Debug\Añadir.baml
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalEstable2\PracticaFinal\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalEstable2\PracticaFinal\obj\Debug\Modificar.baml
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalEstable2\PracticaFinal\obj\Debug\Secundaria.baml
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalEstable2\PracticaFinal\obj\Debug\PracticaFinal.g.resources
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalEstable2\PracticaFinal\obj\Debug\PracticaFinal.Properties.Resources.resources
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalEstable2\PracticaFinal\obj\Debug\PracticaFinal.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalEstable2\PracticaFinal\obj\Debug\PracticaFinal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalEstable2\PracticaFinal\obj\Debug\PracticaFinal.exe
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinalEstable2\PracticaFinal\obj\Debug\PracticaFinal.pdb
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\obj\Debug\Modificar.g.cs
+C:\Users\User\Desktop\Universidad\3ºAÑO\1ºSemestre\Interfaces Graficas\Practicas\PracticaFinal\PracticaFinal\obj\Debug\Modificar.baml
+C:\Users\gonza\Desktop\Universidad\Carrera\3ºAño\1ºSemestre\InterfacesGráficasDeUsuarios\Práctica\PracticaFinal\PracticaFinal\PracticaFinal\bin\Debug\PracticaFinal.exe.config
+C:\Users\gonza\Desktop\Universidad\Carrera\3ºAño\1ºSemestre\InterfacesGráficasDeUsuarios\Práctica\PracticaFinal\PracticaFinal\PracticaFinal\bin\Debug\PracticaFinal.exe
+C:\Users\gonza\Desktop\Universidad\Carrera\3ºAño\1ºSemestre\InterfacesGráficasDeUsuarios\Práctica\PracticaFinal\PracticaFinal\PracticaFinal\bin\Debug\PracticaFinal.pdb
+C:\Users\gonza\Desktop\Universidad\Carrera\3ºAño\1ºSemestre\InterfacesGráficasDeUsuarios\Práctica\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.csproj.AssemblyReference.cache
+C:\Users\gonza\Desktop\Universidad\Carrera\3ºAño\1ºSemestre\InterfacesGráficasDeUsuarios\Práctica\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\Añadir.g.cs
+C:\Users\gonza\Desktop\Universidad\Carrera\3ºAño\1ºSemestre\InterfacesGráficasDeUsuarios\Práctica\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\MainWindow.g.cs
+C:\Users\gonza\Desktop\Universidad\Carrera\3ºAño\1ºSemestre\InterfacesGráficasDeUsuarios\Práctica\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\Modificar.g.cs
+C:\Users\gonza\Desktop\Universidad\Carrera\3ºAño\1ºSemestre\InterfacesGráficasDeUsuarios\Práctica\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\Secundaria.g.cs
+C:\Users\gonza\Desktop\Universidad\Carrera\3ºAño\1ºSemestre\InterfacesGráficasDeUsuarios\Práctica\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\App.g.cs
+C:\Users\gonza\Desktop\Universidad\Carrera\3ºAño\1ºSemestre\InterfacesGráficasDeUsuarios\Práctica\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal_MarkupCompile.cache
+C:\Users\gonza\Desktop\Universidad\Carrera\3ºAño\1ºSemestre\InterfacesGráficasDeUsuarios\Práctica\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal_MarkupCompile.lref
+C:\Users\gonza\Desktop\Universidad\Carrera\3ºAño\1ºSemestre\InterfacesGráficasDeUsuarios\Práctica\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\Añadir.baml
+C:\Users\gonza\Desktop\Universidad\Carrera\3ºAño\1ºSemestre\InterfacesGráficasDeUsuarios\Práctica\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\MainWindow.baml
+C:\Users\gonza\Desktop\Universidad\Carrera\3ºAño\1ºSemestre\InterfacesGráficasDeUsuarios\Práctica\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\Modificar.baml
+C:\Users\gonza\Desktop\Universidad\Carrera\3ºAño\1ºSemestre\InterfacesGráficasDeUsuarios\Práctica\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\Secundaria.baml
+C:\Users\gonza\Desktop\Universidad\Carrera\3ºAño\1ºSemestre\InterfacesGráficasDeUsuarios\Práctica\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.g.resources
+C:\Users\gonza\Desktop\Universidad\Carrera\3ºAño\1ºSemestre\InterfacesGráficasDeUsuarios\Práctica\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.Properties.Resources.resources
+C:\Users\gonza\Desktop\Universidad\Carrera\3ºAño\1ºSemestre\InterfacesGráficasDeUsuarios\Práctica\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.csproj.GenerateResource.cache
+C:\Users\gonza\Desktop\Universidad\Carrera\3ºAño\1ºSemestre\InterfacesGráficasDeUsuarios\Práctica\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Desktop\Universidad\Carrera\3ºAño\1ºSemestre\InterfacesGráficasDeUsuarios\Práctica\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.exe
+C:\Users\gonza\Desktop\Universidad\Carrera\3ºAño\1ºSemestre\InterfacesGráficasDeUsuarios\Práctica\PracticaFinal\PracticaFinal\PracticaFinal\obj\Debug\PracticaFinal.pdb

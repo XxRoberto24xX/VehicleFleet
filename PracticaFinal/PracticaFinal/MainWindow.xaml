@@ -1,0 +1,22 @@
+﻿<Window x:Class="PracticaFinal.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PracticaFinal"
+        mc:Ignorable="d"
+        Title="Flota Automóviles" Height="450" Width="700" SizeChanged="Window_SizeChanged">
+    <DockPanel>
+        <Menu Name="Menu" DockPanel.Dock="Top">
+            <MenuItem Name="abrirSecundaria" Header="Datos Concretos" Click="abrirSecundaria_Click"/>
+            <MenuItem Name="añadirVehiculo" Header="Añadir Vehiculo" Click="añadirVehiculo_Click"/>
+        </Menu>
+        <Button Name="verTodo" DockPanel.Dock="Top" Content="Ver Todo" Margin="10, 10, 10, 0" IsEnabled="False" Click="verTodo_Click"/>
+        <Grid>
+            <Canvas Name="lienzoGrande">
+            </Canvas>
+            <Canvas Name="lienzoPequeño" Background="LightYellow" Margin="50, 20, 50, 50">
+            </Canvas>
+        </Grid>
+    </DockPanel>
+</Window>

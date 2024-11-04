@@ -1,0 +1,45 @@
+﻿<Window x:Class="PracticaFinal.Secundaria"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PracticaFinal"
+        mc:Ignorable="d"
+        Title="Datos" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <ListView Name="tablaCoches" Margin="15" SelectionMode="Single"  SelectionChanged="tablaCoches_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="MATRICULA"  Width="150" DisplayMemberBinding="{Binding matricula}"/>
+                    <GridViewColumn Header="MARCA"  Width="150" DisplayMemberBinding="{Binding marca}"/>
+                    <GridViewColumn Header="KM"  Width="150" DisplayMemberBinding="{Binding kilometros}"/>
+                    <GridViewColumn Header="CONSUMO 100KM"  Width="150" DisplayMemberBinding="{Binding consumoMedio}"/>
+                    <GridViewColumn Header="COSTE 100KM"  Width="150" DisplayMemberBinding="{Binding costeMedio}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <ListView Name="datosCoche" Margin="15" Grid.Row="1" SelectionMode="Single" >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="FECHA"  Width="150" DisplayMemberBinding="{Binding dateString}"/>
+                    <GridViewColumn Header="KM"  Width="150" DisplayMemberBinding="{Binding cuentaKilometros}"/>
+                    <GridViewColumn Header="LITROS"  Width="150" DisplayMemberBinding="{Binding litros}"/>
+                    <GridViewColumn Header="COSTE"  Width="150" DisplayMemberBinding="{Binding coste}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="2">
+            <Button Name="borrarCoche" Content="Borrar Coche" Margin="10" FontSize="15" IsEnabled="False" Click="borrarCoche_Click"/>
+            <Button Name="modificarCoche" Content="Modificar Coche" Margin="10" FontSize="15" IsEnabled="False" Click="modificarCoche_Click"/>
+        </StackPanel>
+
+    </Grid>
+</Window>
